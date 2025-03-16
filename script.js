@@ -411,6 +411,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('detailEmail').textContent = item.username;
         document.getElementById('detailStatus').textContent = item.status_akun;
         document.getElementById('detailKeaktifan').textContent = item.verifikasi_akun;
+        document.getElementById('detailPass').textContent = 'Spenpat.1234';
         detailModal.show();
     }
 
