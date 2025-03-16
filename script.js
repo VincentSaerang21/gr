@@ -429,6 +429,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Initial test search
     console.log('Performing initial test search...');
-    searchInput.value = 'Altje';
+    // searchInput.value = 'Altje';
     search();
 });
